@@ -1,0 +1,24 @@
+1:
+  action_text: A wild slime appears
+  attacks: 1
+  hp_die: 1
+  name: slime
+  size: 1
+2:
+  action_text: A cute bunny is eating flowers just off the path
+  attacks: 1
+  hp_die: 1
+  name: rabbit
+  size: 1
+3:
+  action_text: A goblin jumps out of the bushes
+  attacks: 1
+  hp_die: 1
+  name: goblin
+  size: 1
+4:
+  action_text: A hungry dog drops a human femur
+  attacks: 1
+  hp_die: 2
+  name: wild dog
+  size: 2
