@@ -1,0 +1,24 @@
+1:
+  action text: You trip on a fallen log
+  cash: 0
+  clay: 0
+  iron: 0
+  leather: 0
+  stone: 0
+  wood: 10
+2:
+  action_text: You stumble upon a fallen adventurer
+  cash: 15
+  clay: 0
+  iron: 10
+  leather: 10
+  stone: 0
+  wood: 0
+3:
+  action_text: You slip on the stream bank and get coated in mud
+  cash: 0
+  clay: 10
+  iron: 0
+  leather: 0
+  stone: 0
+  wood: 0

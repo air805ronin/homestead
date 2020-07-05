@@ -4,7 +4,7 @@ import yaml
 def add_monster(monsters):
     listlength = len(monsters)
     monster_number = int(listlength) + 1
-    print (f"List Length: {listlength}  Monster Number: {monster_number}")
+    print(f"List Length: {listlength}  Monster Number: {monster_number}")
     name = input("What is the name of the monster? ")
     action_text = input("What will the monster's action text be? ")
     inputsize = input("Is the monster 'small', 'medium', 'large', or 'giant'?")
